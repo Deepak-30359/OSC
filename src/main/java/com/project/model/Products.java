@@ -28,11 +28,11 @@ public class Products {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Integer productId;
 	@NotNull(message = "please input a valid product name")
-	@Pattern(regexp = "(?i)(^[a-z]+)[a-z .,-]((?! .,-)$){1,25}$",message = "please input a valid product name")
+	@Pattern(regexp = "(?i)(^[a-z]+)[a-z .,-]((x*)){1,25}$",message = "please input a valid product name")
 	private String productName;
 	@NotNull(message = "please input a valid product name")
 	private Double price;
-	@Pattern(regexp = "(?i)(^[a-z]+)[a-z .,-]((?! .,-)$){1,25}$",message = "please input a valid color")
+	@Pattern(regexp = "(?i)(^[a-z]+)[a-z .,-]((x*)){1,25}$",message = "please input a valid color")
 	private String color; 
 	private String dimension;
 	private String specification;

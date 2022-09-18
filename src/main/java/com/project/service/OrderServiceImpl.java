@@ -71,7 +71,7 @@ public class OrderServiceImpl implements OrderService{
 //	@Override
 //	public MyOrder addOrder(MyOrder order, Integer customerId, Integer addressId) {
 //		
-//		order.setLocaldtetime(LocalDateTime.now());
+//		order.setLocaldetime(LocalDateTime.now());
 //		order.setOrderstatus("accepted");
 //		Optional< Customer> databaseCustomer = customerDao.findById(customerId);
 //		

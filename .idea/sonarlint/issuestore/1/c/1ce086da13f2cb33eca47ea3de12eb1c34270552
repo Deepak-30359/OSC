@@ -1,0 +1,24 @@
+
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µî¹Ÿ8¸€»¨´0
+~
+java:S1488a"\Immediately return this expression instead of assigning it to the temporary variable "list".(íé€èþÿÿÿÿ8»€»¨´0
+X	java:S125"<This block of commented-out lines of code should be removed.(¨ªª¦8ð€»¨´0
+T
+java:S11353"2Complete the task associated to this TODO comment.(¾¯‚âüÿÿÿÿ8þ€»¨´0
+]	java:S1257"<This block of commented-out lines of code should be removed.(é¦Ó¿ûÿÿÿÿ8€»¨´0
+X	java:S125<"<This block of commented-out lines of code should be removed.(­²Íœ8»¨´0
+]	java:S125A"<This block of commented-out lines of code should be removed.(ôÚûùÿÿÿÿ8‚»¨´0
+]	java:S125S"<This block of commented-out lines of code should be removed.(íÅŽ¢ýÿÿÿÿ8‹»¨´0
+T
+java:S1135`"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ž»¨´0
+W	java:S125j"<This block of commented-out lines of code should be removed.(®Àš8“»¨´0
+T
+java:S1135k"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿ8“»¨´0
+\
+java:S1117"9Rename "cart" which hides the field declared at line 140.(¬Š¼Ôûÿÿÿÿ8™»¨´0
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(ö“¾ð8»¨´0
+U
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8 »¨´0
+^	java:S125’"<This block of commented-out lines of code should be removed.(ž¥«‚úÿÿÿÿ8¢»¨´0
+K
+java:S1068Œ"(Remove this unused "cart" private field.(Óá­šùÿÿÿÿ8¢»¨´0

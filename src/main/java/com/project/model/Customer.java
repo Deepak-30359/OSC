@@ -41,7 +41,7 @@ public class Customer {
 	@NotNull(message = "Please Enter your Mobile Number")
 	@Pattern(regexp = "[7896]{1}[0-9]{9}",message = "Input a valid mobile number")
 	private String mobileNumber;
-	@Pattern(regexp = "^(.+)@(\\S+)$",message = "Input a valid email address")
+	@Pattern(regexp = "^(.+)@(.+)$",message = "Input a valid email address")
 	private String email;
 	
 	@OneToMany(cascade = CascadeType.ALL)

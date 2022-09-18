@@ -30,11 +30,19 @@ public class OnlineShopingAppApplication {
 	return lvfb;
 	}
 	@EventListener(ApplicationReadyEvent.class)
-	public void triggerMail() throws MessagingException {
+	public void triggerMail()  {
 		senderService.sendSimpleEmail("dk62253@gmail.com",
 				"TAX INVOICE RECEIPT",
 
-				"ITEM PURCHASED:Potato\n QTY=2Kg \n AMOUNT:2$");
+				"ITEM PURCHASED:productId: 1266,\n" +
+						"      productName:iPhone 14,\n" +
+						"      price: 180000,\n" +
+						"      color: white,\n" +
+						"      dimension: 20x15,\n" +
+						"      specification: Pro,\n" +
+						"      manufacturer: Apple,\n" +
+						"      quantity: 1,\n" +
+						"      category: MOBILES");
 
 	}
 }
