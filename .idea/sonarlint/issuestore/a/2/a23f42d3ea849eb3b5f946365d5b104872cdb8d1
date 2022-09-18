@@ -1,0 +1,14 @@
+
+Q	java:S125'"<This block of commented-out lines of code should be removed.(»¥‡Â
+V	java:S125."<This block of commented-out lines of code should be removed.(İãÇûÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(õÛÃóúÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+P
+java:S1128":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê
+M
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;
+^
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(ş‘‹„

@@ -1,0 +1,6 @@
+
+b	java:S116"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×­ÒÒ
+f	java:S116"QRename this field "UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›“¦ó
+\
+java:S1128
+"ARemove this unused import 'javax.validation.constraints.NotNull'.(áç¥ãüÿÿÿÿ
